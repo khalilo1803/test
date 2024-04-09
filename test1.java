@@ -3,5 +3,6 @@ public class test1 {
     int y;
     int z;
     int f;
+    int v;
 
 }
