@@ -1,9 +1,12 @@
+package test;
+
 public class test1 {
-    int x;
+    int xx;
+    int yy;
     int dd;
-    int y;
     int z;
     int f;
     int v;
+    int tt;
 
 }
