@@ -1,8 +1,11 @@
+package test;
+
 public class test1 {
-    int x;
-    int y;
+    int xx;
+    int yy;
     int z;
     int f;
     int v;
+    int tt;
 
 }
