@@ -12,5 +12,6 @@ public class test1 {
     int zz;
     int rr;
     int bb;
+    int cc;
 
 }
