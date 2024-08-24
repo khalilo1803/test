@@ -11,6 +11,5 @@ public class test1 {
     int kk;
     int zz;
     int rr;
-    int zz;
 
 }
