@@ -10,5 +10,6 @@ public class test1 {
     int tt;
     int kk;
     int zz;
+    int rr;
 
 }
