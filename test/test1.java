@@ -9,7 +9,5 @@ public class test1 {
     int v;
     int tt;
     int kk;
-    int zz;
-    int rr;
 
 }
