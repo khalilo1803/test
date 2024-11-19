@@ -6,8 +6,8 @@ public class test1 {
     int dd;
     int z;
     int f;
-    int v;
-    int tt;
+    int vdd;
+    int ttdds;
     int kk;
     int zz;
     int rr;
