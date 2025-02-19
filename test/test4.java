@@ -7,8 +7,8 @@ public class test4 {
     int yyyyy;
     int dddk;
     int ytt;
-    int jjff;
-    int grree;
     int kt;
     int et;
+    int jjff;
+    int grree;
 }
