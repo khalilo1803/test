@@ -9,4 +9,6 @@ public class test4 {
     int ytt;
     int jjff;
     int grree;
+    int kt;
+    int et;
 }
