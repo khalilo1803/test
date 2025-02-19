@@ -5,4 +5,6 @@ public class test4 {
     int zddz;
     int ddd;
     int yyyyy;
+    int dddk;
+    int ytt;
 }
