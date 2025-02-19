@@ -3,4 +3,6 @@ package test;
 public class test4 {
     int okdd;
     int zddz;
+    int ddd;
+    int yyyyy;
 }
