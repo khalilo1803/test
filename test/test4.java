@@ -7,4 +7,6 @@ public class test4 {
     int yyyyy;
     int dddk;
     int ytt;
+    int kt;
+    int et;
 }
